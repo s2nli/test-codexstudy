@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "batches": [
+    {
+      "_id": "cx-test-1",
+      "name": "NEET Mini Mock 1",
+      "byName": "CodeXStudys Test Series · Physics, Chemistry, Biology",
+      "startDate": "",
+      "endDate": "",
+      "language": "English",
+      "previewImage": "",
+      "feeTotal": "Free",
+      "type": "TEST",
+      "slug": "neet-mini-mock-1",
+      "subBatches": []
+    },
+    {
+      "_id": "cx-test-2",
+      "name": "NEET Mini Mock 2",
+      "byName": "CodeXStudys Test Series · Physics, Chemistry, Biology",
+      "startDate": "",
+      "endDate": "",
+      "language": "English",
+      "previewImage": "",
+      "feeTotal": "Free",
+      "type": "TEST",
+      "slug": "neet-mini-mock-2",
+      "subBatches": []
+    }
+  ]
+}
